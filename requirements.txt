@@ -1,0 +1,4 @@
+st-pages
+numpy
+matplotlib
+matplotlib-inline
